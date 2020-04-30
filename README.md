@@ -3,12 +3,12 @@
 
 ## Hello I'm Shadi Mohammed Zaqout.
 
-### Growth Mindset:
+### Git:
 
 #### things to keep in mind:
 
->1. You should never give up.
->2. Ask for help when it's needed.
->3. Practise practise and practice. 
+>1. git status
+>2. git add .
+>3. git commit -m "MSG"
+>4. git push origin master 
 
-## Zaqout
