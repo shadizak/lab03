@@ -3,7 +3,7 @@
 
 ## Hello I'm Shadi Mohammed Zaqout.
 
-### Growth Mindset: mean we have to use our intelligent and talent along with our hardwork and passion.
+### Growth Mindset:
 
 #### things to keep in mind:
 
